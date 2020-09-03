@@ -1,0 +1,33 @@
+# IDE
+## 1.下载idea 社区版
+[下载地址](https://www.jetbrains.com/idea/download/#section=windows)
+##  2.配置主题
+### 2.1 下载主题插件monokai pro
+![主题插件](_v_images/20200903115303654_28998.png)
+
+### 2.2选择主题
+![](_v_images/20200903115407137_7336.png)
+
+
+### 2.3设置编辑器字体
+
+![](_v_images/20200903115629214_29970.png)
+
+### 2.4设置color theme-java
+![](_v_images/20200903120100925_6044.png)
+### 2.5 设置color-theme  console
+![](_v_images/20200903120423928_5604.png)
+
+
+
+
+
+### 2.6 设置code style
+![](_v_images/20200903120140460_19858.png)
+
+
+
+
+
+## 3.配置代理
+![设置代理](_v_images/20200903115523999_14368.png)
