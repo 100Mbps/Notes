@@ -36,3 +36,5 @@
 * monokai主体
 *  p3c  alibaba编程规范
 *  lombok
+*  plant uml
+*  translation
