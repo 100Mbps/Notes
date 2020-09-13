@@ -25,6 +25,7 @@ sudo apt-get install paper-gtk-theme paper-icon-theme
 如果系统版本为16.04,需要自己编译flameshot安装，18.04版本可以通过命令行安装。
 ### 2.2 笔记工具
 vnote +github 记录笔记
+[https://github.com/tamlok/vnote](https://github.com/tamlok/vnote)
 ### 2.3 流程图，uml图draw.io
 
 [https://app.diagrams.net/](https://app.diagrams.net/)
@@ -41,9 +42,8 @@ vnote +github 记录笔记
 [https://cidian.youdao.com/multi.html](https://cidian.youdao.com/multi.html)
 ### 2.7 terminal美化
 [https://www.cnblogs.com/wind-chaser/p/11338289.html](https://www.cnblogs.com/wind-chaser/p/11338289.html)
-
-
 ### 2.8输入法 google输入法
+[https://blog.csdn.net/Zhanglin_Wu/article/details/91346430](https://blog.csdn.net/Zhanglin_Wu/article/details/91346430)
 ### 2.9 system load indicator
 ![](_v_images/20200913221655153_896605826.png)
 ## 3.开发工具
