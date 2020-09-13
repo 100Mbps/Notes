@@ -40,8 +40,15 @@ vnote +github 记录笔记
 [https://cidian.youdao.com/multi.html](https://cidian.youdao.com/multi.html)
 ### 2.7 terminal美化
 [https://www.cnblogs.com/wind-chaser/p/11338289.html](https://www.cnblogs.com/wind-chaser/p/11338289.html)
+
+
+### 2.8输入法 google输入法
+### 2.9 system load indicator
+![](_v_images/20200913221655153_896605826.png)
 ## 3.开发工具
 
 ## 3.1 vscode
+待续
 ## 3.2 idea
+[https://github.com/100Mbps/Notes/blob/master/environment/IDE.md](https://github.com/100Mbps/Notes/blob/master/environment/IDE.md)
 
