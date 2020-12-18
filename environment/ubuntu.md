@@ -40,6 +40,7 @@ vnote +github 记录笔记
 ### 2.6 翻译工具 有道
 [https://cidian.youdao.com/multi.html](https://cidian.youdao.com/multi.html)
 ### 2.7 terminal美化
+http://wp.blkstone.me/2018/08/oh-my-zsh-agnoster-theme-configration/
 [https://www.cnblogs.com/wind-chaser/p/11338289.html](https://www.cnblogs.com/wind-chaser/p/11338289.html)
 ### 2.8输入法 google输入法
 [https://blog.csdn.net/Zhanglin_Wu/article/details/91346430](https://blog.csdn.net/Zhanglin_Wu/article/details/91346430)
