@@ -5,6 +5,9 @@
     "folders": [
         {
             "name": "misc"
+        },
+        {
+            "name": "web"
         }
     ],
     "id": "0",
