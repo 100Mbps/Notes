@@ -26,6 +26,9 @@
         },
         {
             "name": "ctf"
+        },
+        {
+            "name": "javascript"
         }
     ],
     "id": "1",
