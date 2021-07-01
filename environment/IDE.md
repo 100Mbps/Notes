@@ -39,3 +39,17 @@
 *  plant uml
 *  translation
 * jclasslibbyteCode viewer (查看java byte code)
+## 5.安装 consolas 字体
+```
+https://gist.github.com/sigoden/d01ad118da677f796bab01781b7eae23
+```
+```
+wget -O /tmp/YaHei.Consolas.1.12.zip https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/uigroupcode/YaHei.Consolas.1.12.zip
+unzip /tmp/YaHei.Consolas.1.12.zip
+sudo mkdir -p /usr/share/fonts/consolas
+sudo mv YaHei.Consolas.1.12.ttf /usr/share/fonts/consolas/
+sudo chmod 644 /usr/share/fonts/consolas/YaHei.Consolas.1.12.ttf
+cd /usr/share/fonts/consolas
+sudo mkfontscale && sudo mkfontdir && sudo fc-cache -fv
+```
+![](vx_images/38631696495.png =1216x)

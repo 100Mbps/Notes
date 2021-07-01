@@ -29,6 +29,9 @@
         },
         {
             "name": "javascript"
+        },
+        {
+            "name": "vue"
         }
     ],
     "id": "1",
