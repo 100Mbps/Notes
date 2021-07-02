@@ -32,8 +32,12 @@
         },
         {
             "name": "vue"
+        },
+        {
+            "name": "mashibing"
         }
     ],
     "id": "1",
+    "modified_time": "",
     "version": "1"
 }
